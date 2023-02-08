@@ -215,7 +215,7 @@ a:hover {
   }
 
   .intro {
-    width: 40rem;
+    max-width: 40rem;
     padding: 3.5rem;
   }
 
